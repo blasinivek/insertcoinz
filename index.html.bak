@@ -1,0 +1,1245 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en"><!--<![endif]-->
+	<head>
+
+		<!-- visualizacion de logo en ventana de navegador -->
+<link rel="shortcut icon" href="img/insertcoinz-logo.jpg"/>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Appley is a Responsive HTML5 CSS3 Theme perfect for your business and presentation of your application.">
+	<meta name="keywords" content="Software, Html5, Responsive Template, Landing Page, Landing Template, Bootstrap Responsive Template, Bottstrap Design, App, App Template">
+	<meta name="robots" content="index,follow">
+
+		<title>INSERT COINZ | Kevin lopez</title>
+		
+		<!-- bxslider -->
+<!-- jQuery library (served from Google) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<!-- bxSlider Javascript file -->
+<!--script src="js/jquery.bxslider.js"></script-->
+<!-- bxSlider CSS file -->
+<link href="css/jquery.bxslider.css" rel="stylesheet" />
+
+    
+    <!-- All Plugins Css -->
+		<link href="css/plugins.css" rel="stylesheet">
+		
+
+		
+	  <!-- Custom style  -->
+    <link href="css/overwrite.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="js/html5shiv.min.js"></script>
+      <script src="js/respond.min.js"></script>
+		<![endif]-->
+		
+		 <!-- scrooll reveal -->
+		 <script src="https://unpkg.com/scrollreveal"></script>
+
+				<!-- Start WOWSlider.com HEAD section -->
+			<link rel="stylesheet" type="text/css" href="engine1/style.css" />
+			<!--script type="text/javascript" src="engine1/jquery.js"></script-->	
+			<script src="https://www.youtube.com/iframe_api"></script>
+
+<!-- End WOWSlider.com HEAD section -->
+
+<!-- Start WOWSlider.com HEAD section -->
+<link rel="stylesheet" type="text/css" href="engine1/style.css" />
+<!--script type="text/javascript" src="engine1/jquery.js"></script-->
+<!-- End WOWSlider.com HEAD section -->
+
+
+
+		 
+
+
+	
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine3/style.css" />
+	<!--script type="text/javascript" src="engine3/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section --></head>
+
+
+	<body>
+		<header
+		<div class="wrapper">
+		
+		<!-- Start Navigation -->
+
+
+		  <nav class="navbar navbar-default navbar-fixed white bootsnav on no-full">  
+				 
+			<div class="container">            
+				<!-- End Atribute Navigation -->
+				
+				<!-- Start Header Navigation -->
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+						<i class="fa fa-bars"></i>
+					</button>
+					<a class="navbar-brand" href="#home"><img src="img/logo1.png"  class="logo" alt=""></a>
+				</div>
+				<!-- End Header Navigation -->
+
+				<!-- Begin: Navbar Section -->
+				<div class="collapse navbar-collapse" id="navbar-menu">
+					<ul class="nav navbar-nav navbar-right" id="my-navigation" data-in="fadeInDown" data-out="fadeOutUp">
+						<li  class="active scroll"><a href="#home">Home</a></li>
+						<li class="scroll"><a href="#musica">Musica</a></li>
+						<li class="scroll"><a href="#videos">Videos</a></li>
+						<li class="scroll"><a href="#fotos">Fotos</a></li>
+						<li class="scroll"><a href="#biografia">Biografia</a></li>
+						<li class="scroll"><a href="#contact">Contacto</a></li>
+					</ul>
+				</div><!-- /.navbar-collapse -->
+			</div>   
+		</nav>
+		
+
+		
+		<!-- End Navigation -->
+
+		  <div class="clearfix"></div>  
+		<!-- Main jumbotron for a primary marketing message or call to action -->
+		 <div class="banner" id="home" style="background:url(img/horizontal.jpg) ;">    
+			<!-- <div class="banner" id="home" style="background:url(img/fondo14.jpg) ;">   -->
+
+
+			<!-- Wrapper for carousel items -->
+			  <div class="container">
+				<div class="banner-caption">		
+					<div class="col-md-7 col-sm-12 banner-text">
+						 <h1>Insert Coinz - De eso se trata</h1> 
+						 <h3>Pronto</h3>
+						  <a href="#" class="banner-btn download-btn" title="download" ><i class="fa fa-spotify"></i><h4>Spotify</h4></a>
+						 <a href="#" class="banner-btn login-btn" title="download" ><i class="fa fa-youtube"></i><h4>YouTube</h4></a> 
+						 <a href="#" class="banner-btn download-btn" title="download" ><i class="fa fa-instagram"></i><h4>Instagram</h4></a>
+
+						</div>
+					<div class="col-md-5 hidden-sm hidden-xs">
+						<img src="img/logo3.png" class="img-responsive" alt="iphone" />
+
+					</div>
+				</div>
+			</div>
+		</div>  
+
+
+
+			
+		
+</header>
+
+
+
+
+
+
+
+
+		
+
+		<!-- smart features-->
+		<section class="smart-features" id="musica">
+			<div class="container">
+				<div class="row">
+					<div class="smart-header">
+						<h1>Musica</h1>
+					</div>
+				</div>
+				
+		<iframe src="https://open.spotify.com/embed/album/1q3AT45cG002rRmCgpNIw5" 
+		width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+
+
+
+
+<!-- discos -->
+
+		 <!-- app screen-->
+		  <section class="smart-features" id="discos">
+			<div class="container">
+				<div class="row">
+					<div class="smart-header">
+						<h1>Discos</h1>
+					</div>
+				</div>
+		
+	<div class="row">
+		<div id="app-screen" class="owl-carousel owl-theme">
+			<div class="item">
+			<img src="img/caratula.jpg" class="img-responsive">
+			</div>
+
+			<div class="item">
+				<img src="img/PEFILEDQ.jpg" class="img-responsive">
+			</div>
+			<div class="item">
+				<img src="img/5.jpg" class="img-responsive">
+			</div>
+			<div class="item">
+				<img src="img/allin.jpg" class="img-responsive">
+			</div>
+			<div class="item">
+				<img src="img/backprueba.jpg" class="img-responsive">
+			</div>
+			<div class="item">
+				<img src="img/caratuladisco.png" class="img-responsive">
+			</div>
+			<div class="item">
+				<img src="img/coverchicadehu.jpg" class="img-responsive">
+			</div>
+			<div class="item">
+				<img src="img/allin.jpg" class="img-responsive">
+			</div>
+			<div class="item">
+				<img src="img/caratula.jpg" class="img-responsive">
+			</div>
+			<div class="item">
+				<img src="img/caratula.jpg" class="img-responsive">
+				</div>
+				<div class="item">
+					<img src="img/PEFILEDQ.jpg" class="img-responsive">
+				</div>
+				<div class="item">
+					<img src="img/5.jpg" class="img-responsive">
+				</div>
+				<div class="item">
+					<img src="img/allin.jpg" class="img-responsive">
+				</div>
+				<div class="item">
+					<img src="img/backprueba.jpg" class="img-responsive">
+				</div>
+				<div class="item">
+					<img src="img/caratuladisco.png" class="img-responsive">
+				</div>
+		</div>
+		<div class="customNavigation">
+			<a class="btn prev"><i class="fa fa-arrow-left"></i></a>
+			<a class="btn next"><i class="fa fa-arrow-right"></i></a>
+		</div>
+	</div>
+</div>
+</section> 
+
+		</section> 
+
+
+
+		
+<!-- Start WOWSlider.com BODY section -->
+<section class="smart-features" id="videos">
+	<div class="container">
+		<div class="row">
+			<div class="smart-header">
+				<h1>Videos</h1>
+			</div>
+		</div>
+
+
+<!-- Start WOWSlider.com BODY section -->
+<div id="wowslider-container1">
+	<div class="ws_images"><ul>
+			<li><iframe width="100%" height="100%" src="https://www.youtube.com/embed/J2_oKL3wq3Y?autoplay=0&rel=0&enablejsapi=1&playerapiid=ytplayer&wmode=transparent" frameborder="0" allowfullscreen></iframe><img src="data1/images/j2_okl3wq3y.png" alt="Insert Coinz "Break Em" feat Apoka (VIDEO OFICIAL VISIONARIOSpro)" title="Insert Coinz "Break Em" feat Apoka (VIDEO OFICIAL VISIONARIOSpro)" id="wows1_0"/></li>
+			<li><iframe width="100%" height="100%" src="https://www.youtube.com/embed/2MvyT3jkFac?autoplay=0&rel=0&enablejsapi=1&playerapiid=ytplayer&wmode=transparent" frameborder="0" allowfullscreen></iframe><img src="data1/images/2mvyt3jkfac.png" alt="Insert Coinz     —Chillin—" title="Insert Coinz     —Chillin—" id="wows1_1"/></li>
+			<li><iframe width="100%" height="100%" src="https://www.youtube.com/embed/-qX8c1cHY4g?autoplay=0&rel=0&enablejsapi=1&playerapiid=ytplayer&wmode=transparent" frameborder="0" allowfullscreen></iframe><img src="data1/images/qx8c1chy4g.png" alt="Insert Coinz  "Dreams" (VIDEO OFFICIAL) VISIONARIOSpro" title="Insert Coinz  "Dreams" (VIDEO OFFICIAL) VISIONARIOSpro" id="wows1_2"/></li>
+			<li><iframe width="100%" height="100%" src="https://www.youtube.com/embed/gqLvlHGfz-o?autoplay=0&rel=0&enablejsapi=1&playerapiid=ytplayer&wmode=transparent" frameborder="0" allowfullscreen></iframe><img src="data1/images/gqlvlhgfzo.png" alt="-Insert coinz   Feat    Haze   - DIME QUIEN MANDA  (VIDEOCLIP OFICIAL VISIONARIOSpro)" title="-Insert coinz   Feat    Haze   - DIME QUIEN MANDA  (VIDEOCLIP OFICIAL VISIONARIOSpro)" id="wows1_3"/></li>
+			<li><iframe width="100%" height="100%" src="https://www.youtube.com/embed/3BBsSGq66sQ?autoplay=0&rel=0&enablejsapi=1&playerapiid=ytplayer&wmode=transparent" frameborder="0" allowfullscreen></iframe><img src="data1/images/3bbssgq66sq.png" alt="Insert Coinz  "TRAVEL" (VIDEO OFICIAL VISIONARIOSpro)" title="Insert Coinz  "TRAVEL" (VIDEO OFICIAL VISIONARIOSpro)" id="wows1_4"/></li>
+			<li><iframe width="100%" height="100%" src="https://www.youtube.com/embed/V-bu-NsEGdA?autoplay=0&rel=0&enablejsapi=1&playerapiid=ytplayer&wmode=transparent" frameborder="0" allowfullscreen></iframe><img src="data1/images/vbunsegda.png" alt="Insert Coinz - HEADPHONES - Feat. Jorge Gill (Prod.DMI - De eso se trata)" title="Insert Coinz - HEADPHONES - Feat. Jorge Gill (Prod.DMI - De eso se trata)" id="wows1_5"/></li>
+			<li><iframe width="100%" height="100%" src="https://www.youtube.com/embed/_9D_ymSSOZo?autoplay=0&rel=0&enablejsapi=1&playerapiid=ytplayer&wmode=transparent" frameborder="0" allowfullscreen></iframe><img src="data1/images/_9d_ymssozo.png" alt="FUTURISTIC - Insert Coinz (Prod by DMI)" title="FUTURISTIC - Insert Coinz (Prod by DMI)" id="wows1_6"/></li>
+			<li><iframe width="100%" height="100%" src="https://www.youtube.com/embed/e1IwS1sNH7s?autoplay=0&rel=0&enablejsapi=1&playerapiid=ytplayer&wmode=transparent" frameborder="0" allowfullscreen></iframe><img src="data1/images/e1iws1snh7s.png" alt="html5 slideshow" title="Insert Coinz  -All In-  (Official Video)" id="wows1_7"/></li>
+			<li><iframe width="100%" height="100%" src="https://www.youtube.com/embed/EUpUmBWf1-0?autoplay=0&rel=0&enablejsapi=1&playerapiid=ytplayer&wmode=transparent" frameborder="0" allowfullscreen></iframe><img src="data1/images/eupumbwf10.png" alt="Insert Coinz "Quien va quien viene"   Visionarios  Planta Baja Records" title="Insert Coinz "Quien va quien viene"   Visionarios  Planta Baja Records" id="wows1_8"/></li>
+		</ul></div>
+		<div class="ws_bullets"><div>
+			<a href="#wows1_0" title="Insert Coinz "Break Em" feat Apoka (VIDEO OFICIAL VISIONARIOSpro)"><span><img src="data1/tooltips/j2_okl3wq3y.png" alt="Insert Coinz "Break Em" feat Apoka (VIDEO OFICIAL VISIONARIOSpro)"/>1</span></a>
+			<a href="#wows1_1" title="Insert Coinz     —Chillin—"><span><img src="data1/tooltips/2mvyt3jkfac.png" alt="Insert Coinz     —Chillin—"/>2</span></a>
+			<a href="#wows1_2" title="Insert Coinz  "Dreams" (VIDEO OFFICIAL) VISIONARIOSpro"><span><img src="data1/tooltips/qx8c1chy4g.png" alt="Insert Coinz  "Dreams" (VIDEO OFFICIAL) VISIONARIOSpro"/>3</span></a>
+			<a href="#wows1_3" title="-Insert coinz   Feat    Haze   - DIME QUIEN MANDA  (VIDEOCLIP OFICIAL VISIONARIOSpro)"><span><img src="data1/tooltips/gqlvlhgfzo.png" alt="-Insert coinz   Feat    Haze   - DIME QUIEN MANDA  (VIDEOCLIP OFICIAL VISIONARIOSpro)"/>4</span></a>
+			<a href="#wows1_4" title="Insert Coinz  "TRAVEL" (VIDEO OFICIAL VISIONARIOSpro)"><span><img src="data1/tooltips/3bbssgq66sq.png" alt="Insert Coinz  "TRAVEL" (VIDEO OFICIAL VISIONARIOSpro)"/>5</span></a>
+			<a href="#wows1_5" title="Insert Coinz - HEADPHONES - Feat. Jorge Gill (Prod.DMI - De eso se trata)"><span><img src="data1/tooltips/vbunsegda.png" alt="Insert Coinz - HEADPHONES - Feat. Jorge Gill (Prod.DMI - De eso se trata)"/>6</span></a>
+			<a href="#wows1_6" title="FUTURISTIC - Insert Coinz (Prod by DMI)"><span><img src="data1/tooltips/_9d_ymssozo.png" alt="FUTURISTIC - Insert Coinz (Prod by DMI)"/>7</span></a>
+			<a href="#wows1_7" title="Insert Coinz  -All In-  (Official Video)"><span><img src="data1/tooltips/e1iws1snh7s.png" alt="Insert Coinz  -All In-  (Official Video)"/>8</span></a>
+			<a href="#wows1_8" title="Insert Coinz "Quien va quien viene"   Visionarios  Planta Baja Records"><span><img src="data1/tooltips/eupumbwf10.png" alt="Insert Coinz "Quien va quien viene"   Visionarios  Planta Baja Records"/>9</span></a>
+		</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">css image gallery</a> by WOWSlider.com v8.8</div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine1/wowslider.js"></script>
+	<script type="text/javascript" src="engine1/script.js"></script>
+	<!-- End WOWSlider.com BODY section -->
+
+		
+
+		
+
+	
+<!--.End app sreen-->
+
+
+<!-- seccion -->
+<!-- 
+<header id="header2">
+	<div class="container mt-5">
+			<div class ="row">
+					<div class="col-md-6">
+							<div class="header-content-left">
+									<img src="img/logo3.png" style="width: 100%">
+							</div>
+					</div>
+					<div class="col-md-6">
+							<div class="header-content-right">
+									<h1 class="display-4">Biografia</h1>
+									<p class="mt-5">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Natus aliquid cumque voluptatibus ad, dolor ipsam perspiciatis placeat porro blanditiis aliquam mollitia nostrum soluta? Quos ullam blanditiis, explicabo sunt nemo nihil, corrupti a vel quo nobis perferendis quis eveniet repellendus, aperiam velit. Neque laborum rem nostrum totam saepe corporis dolores quo!.</p>
+									<a href="#" class="btn btn-outline-secondary btn-lg mt-2">Read more</a>
+							</div>
+					</div>
+			</div>
+	</div>
+</header> -->
+
+
+
+	
+
+
+			 <!-- app screen-->
+			 <section class="smart-features" id="videos">
+					<div class="container">
+						<div class="row">
+							<div class="smart-header">
+								<h1>Videos</h1>
+							</div>
+						</div>
+	
+					
+
+					 <iframe width="560" height="315" 
+					 src="https://www.youtube.com/embed/3BBsSGq66sQ" 
+					 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+					 allowfullscreen></iframe>
+
+					 <iframe width="560" height="315"
+					  src="https://www.youtube.com/embed/2MvyT3jkFac" 
+					 frameborder="0" 
+					 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+					 allowfullscreen>
+					</iframe>
+
+					<iframe width="560" height="315" 
+					src="https://www.youtube.com/embed/sCtwt1d34iM"
+					 frameborder="0" 
+					 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+					allowfullscreen>
+				</iframe>
+
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/sCtwt1d34iM"
+				frameborder="0" 
+				allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+			 allowfullscreen>
+		 </iframe>
+
+		 
+		 <iframe width="560" height="315" src="https://www.youtube.com/embed/3BBsSGq66sQ" 
+		 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+		 allowfullscreen></iframe>
+
+		 
+		 <iframe width="560" height="315" src="https://www.youtube.com/embed/3BBsSGq66sQ" 
+		 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+		 allowfullscreen></iframe>
+		 
+						
+										
+					</div>
+
+				<div class="customNavigation">
+					<a class="btn prev"><i class="fa fa-arrow-left"></i></a>
+					<a class="btn next"><i class="fa fa-arrow-right"></i></a>
+				</div>
+			</div>
+		</div>
+	</section> 
+	<!--.End app sreen-->
+
+
+		
+
+
+
+		<!-- seccion galeria de imagenes  -->
+			<!-- <div class="container">
+		<div class="row">
+			<div class="smart-header" id="fotos">
+				<h1>Fotos</h1>
+			</div>
+		</div>
+	 <section class="gallery">
+	 <div class="carousel">
+		 
+		 <input type="radio" id="image1" name="gallery-control" checked>
+		 <input type="radio" id="image2" name="gallery-control">
+		 <input type="radio" id="image3" name="gallery-control">
+		 <input type="radio" id="image4" name="gallery-control">
+		 <input type="radio" id="image5" name="gallery-control">
+			<input type="radio" id="image6" name="gallery-control">
+
+		 
+		 
+		 <input type="checkbox" id="fullscreen" name="gallery-fullscreen-control"/>
+		 
+		 <div class="wrap">
+			 
+			 <figure>
+				 <label for="fullscreen">
+					 <img src="img/Portada_mortifera.jpg" alt="image1"/>
+				 </label>
+			 </figure>
+		
+			 <figure>
+				 <label for="fullscreen">
+					 <img src="img/5.jpg" alt="image2"/>
+				 </label>
+			 </figure>
+ 
+			 <figure>
+				 <label for="fullscreen">
+					 <img src="img/logo3.png" alt="image3" />
+				 </label>
+			 </figure>
+			 
+			 <figure>
+				 <label for="fullscreen">
+					 <img src="img/PEFILEDQ.jpg" alt="image4"/>
+				 </label>
+			 </figure>
+
+			 <figure>
+					<label for="fullscreen">
+						<img src="img/caratula.jpg" alt="image5"/>
+					</label>
+				</figure>
+
+				<figure>
+						<label for="fullscreen">
+							<img src="img/chillin.jpg" alt="image6"/>
+						</label>
+					</figure>
+
+
+		 </div>
+		 
+		 <div class="thumbnails">
+			 
+			 <div class="slider"><div class="indicator"></div></div>
+			 
+			 <label for="image1" class="thumb" style="background-image: url('img/Portada_mortifera.jpg')"></label>
+			
+			 
+			 <label for="image2" class="thumb" style="background-image: url('img/5.jpg')"></label>
+			 
+			 <label for="image3" class="thumb" style="background-image: url('img/logo3.png')"></label>
+				 
+			 <label for="image4" class="thumb" style="background-image: url('img/PEFILEDQ.jpg')"></label>
+			 <label for="image5" class="thumb" style="background-image: url('img/caratula.jpg')"></label>
+
+			 <label for="image6" class="thumb" style="background-image: url('img/chillin.jpg')"></label>
+
+
+		 </div>
+	 </div>
+	</div>
+ </section> 
+	 -->
+
+<!-- Start WOWSlider.com BODY section -->
+
+<section class="smart-features" id="fotos">
+	<div class="container">
+		<div class="row">
+			<div class="smart-header">
+				<h1>Fotos</h1>
+			</div>
+		</div>
+		</div>
+</section>
+
+	
+
+
+
+
+
+
+
+<!-- probando -->
+<!-- <section class="smart-features" id="fotos">
+	<div class="container">
+		<div class="row">
+			<div class="smart-header">
+				<h1>Fotos</h1>
+			</div>
+		</div>
+
+		<img width="fluid" height="fluid"/>
+<div class="col-md-3 col-sm-6">
+	<img src="img/1.jpg" alt="imack" class="img-responsive imack" />
+</div>
+
+
+
+<img width="fluid" height="fluid"/>
+<div class="col-md-3 col-sm-6">
+	<img src="img/5.jpg" alt="imack" class="img-responsive imack" />
+</div>
+
+<img width="fluid" height="fluid"/>
+<div class="col-md-3 col-sm-6">
+	<img src="img/allin.jpg" alt="imack" class="img-responsive imack" />
+</div>
+
+<img width="fluid" height="fluid"/>
+<div class="col-md-3 col-sm-6">
+	<img src="img/caratula.jpg" alt="imack" class="img-responsive imack" />
+</div>
+
+
+
+<img width="fluid" height="fluid"/>
+<div class="col-md-3 col-sm-6">
+	<img src="img/coverchicadehu.jpg" alt="imack" class="img-responsive imack" />
+</div>
+
+<img width="fluid" height="fluid"/>
+<div class="col-md-3 col-sm-6">
+	<img src="img/lastwishcover.jpg" alt="imack" class="img-responsive imack" />
+</div>
+
+<img width="fluid" height="fluid"/>
+<div class="col-md-3 col-sm-6">
+	<img src="img/1.jpg" alt="imack" class="img-responsive imack" />
+</div>
+
+
+<img width="fluid" height="fluid"/>
+<div class="col-md-3 col-sm-6">
+	<img src="img/2-11.jpg" alt="imack" class="img-responsive imack" />
+</div>
+
+<img width="fluid" height="fluid"/>
+<div class="col-md-3 col-sm-6">
+	<img src="img/Insert-Coinz-Headphones.jpg" alt="imack" class="img-responsive imack" />
+</div>
+
+
+
+	</div>
+</section> -->
+
+
+
+
+<!-- probando 2 -->
+
+
+<!-- app screen-->
+<!-- <section class="smart-features" id="d">
+	<div class="container">
+		<div class="row">
+			<div class="smart-header">
+				<h1>Imagenes</h1>
+			</div>
+		</div>
+
+<div class="row">
+<div id="app-screen" class="owl-carousel owl-theme">
+	<div class="item">
+	<img src="img/caratula.jpg" class="img-responsive">
+	</div>
+
+	<div class="item">
+		<img src="img/PEFILEDQ.jpg" class="img-responsive">
+	</div>
+	<div class="item">
+		<img src="img/5.jpg" class="img-responsive">
+	</div>
+	<div class="item">
+		<img src="img/allin.jpg" class="img-responsive">
+	</div>
+	<div class="item">
+		<img src="img/backprueba.jpg" class="img-responsive">
+	</div>
+	<div class="item">
+		<img src="img/caratuladisco.png" class="img-responsive">
+	</div>
+	<div class="item">
+		<img src="img/coverchicadehu.jpg" class="img-responsive">
+	</div>
+	<div class="item">
+		<img src="img/allin.jpg" class="img-responsive">
+	</div>
+	<div class="item">
+		<img src="img/caratula.jpg" class="img-responsive">
+	</div>
+	<div class="item">
+		<img src="img/caratula.jpg" class="img-responsive">
+		</div>
+		<div class="item">
+			<img src="img/PEFILEDQ.jpg" class="img-responsive">
+		</div>
+		<div class="item">
+			<img src="img/5.jpg" class="img-responsive">
+		</div>
+		<div class="item">
+			<img src="img/allin.jpg" class="img-responsive">
+		</div>
+		<div class="item">
+			<img src="img/backprueba.jpg" class="img-responsive">
+		</div>
+		<div class="item">
+			<img src="img/caratuladisco.png" class="img-responsive">
+		</div>
+</div>
+<div class="customNavigation">
+	<a class="btn prev"><i class="fa fa-arrow-left"></i></a>
+	<a class="btn next"><i class="fa fa-arrow-right"></i></a>
+</div>
+</div>
+</div>
+</section> 
+
+</section>  -->
+
+
+<!-- nuevo -->
+
+
+
+<!-- smart features-->
+<section class="smart-features" id="features">
+	<div class="container">
+		<div class="row">
+			<div class="smart-header">
+				<h1>Smart features</h1>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-8 col-sm-12 no-padd">
+				<div class="col-md-6 col-sm-6 no-padd">
+					<div class="features-caption">
+						<span class="icon icon-trophy"></span>
+						<h3>Responsive Designs</h3>
+						<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium</p>
+					</div>
+				</div>
+				<div class="col-md-6 col-sm-6 no-padd">
+					<div class="features-caption">
+						<span class="icon icon-layers"></span>
+						<h3>Responsive Designs</h3>
+						<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium</p>
+					</div>
+				</div>
+				<div class="col-md-6 col-sm-6 no-padd">
+					<div class="features-caption">
+						<span class="icon icon-happy"></span>
+						<h3>Responsive Designs</h3>
+						<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium</p>
+					</div>
+				</div>
+				<div class="col-md-6 col-sm-6 no-padd">
+					<div class="features-caption">
+						<span class="icon icon-dial"></span>
+						<h3>Responsive Designs</h3>
+						<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4 col-sm-12">
+				<img src="img/imack-2.png" alt="imack" class="img-responsive imack" />
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="dark services" id="services">
+	<div class="container">
+		<div class="col-md-4 col-sm-6">
+			<div class="service-caption">
+				<span class="icon-tools"></span>
+				<div class="service-content">
+					<h4>Content Writing</h4>
+					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-4 col-sm-6">
+			<div class="service-caption">
+				<span class="icon-dial"></span>
+				<div class="service-content">
+					<h4>Creative Designs</h4>
+					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-4 col-sm-6">
+			<div class="service-caption">
+				<span class="icon-twitter"></span>
+				<div class="service-content">
+					<h4>24x7 Support</h4>
+					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-4 col-sm-6">
+			<div class="service-caption">
+				<span class="icon-pictures"></span>
+				<div class="service-content">
+					<h4>Graphic Designs</h4>
+					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-4 col-sm-6">
+			<div class="service-caption">
+				<span class="icon-twitter"></span>
+				<div class="service-content">
+					<h4>24x7 Support</h4>
+					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-4 col-sm-6">
+			<div class="service-caption">
+				<span class="icon-pictures"></span>
+				<div class="service-content">
+					<h4>Graphic Designs</h4>
+					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+				<!-- parallax -->
+				 <!-- <img src="img/fondo11.jpg" class="img-fluid" alt="Responsive image">  -->
+					
+				<!-- <div class="parallax-container">
+					<div class="parallax"><img src="img/fondo11.jpg"></div>
+				</div>
+				<div class="section white"> -->
+
+
+					<!-- <div class="row container">
+						<h2 class="header">Parallax</h2>
+						<p class="grey-text text-darken-3 lighten-3">Parallax is an effect where the background content or image in this case, is moved at a different speed than the foreground content while scrolling.</p>
+					</div>
+				</div>
+				<div class="parallax-container">
+					<div class="parallax"><img src="images/parallax2.jpg"></div>
+				</div> -->
+
+		
+		
+
+
+<!-- smart features-->
+<section class="smart-features" id="biografia2">
+	<div class="container">
+		<div class="row">
+			<div class="smart-header">
+				<h1>Biografia</h1>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-8 col-sm-12 no-padd">
+				<div class="col-md-6 col-sm-6 no-padd">
+					<div class="features-caption">
+						<span class="icon icon-pencil"></span>
+						<h3>Logros</h3>
+						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, temporibus. Placeat ipsam illo asperiores, officia velit doloribus cupiditate eos sit aut. Nisi dicta repudiandae voluptate sapiente adipisci cupiditate commodi et enim ut aliquam? Consectetur, id est animi assumenda aut aliquam autem fuga amet dicta, maxime modi minima soluta officiis aliquid! </p>
+					</div>
+				</div>
+
+				
+				<div class="col-md-6 col-sm-6 no-padd">
+					<div class="features-caption">
+						<span class="icon icon-layers"></span>
+						<h3>Conciertos</h3>
+						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium tenetur necessitatibus consequatur dicta itaque repudiandae animi maxime sint reiciendis hic quo aliquam consequuntur, vel dolorem nisi culpa dignissimos! Nihil eius obcaecati veritatis neque consequuntur libero totam, laborum ab cumque blanditiis delectus, minima corporis doloribus ratione nesciunt deserunt provident mollitia aliquid! Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium</p>
+					</div>
+				</div>
+				<div class="col-md-6 col-sm-6 no-padd">
+					<div class="features-caption">
+						<span class="icon icon-happy"></span>
+						<h3>Colaboraciones</h3>
+						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur dolor officia consectetur nobis assumenda, officiis quo soluta facilis delectus nisi quisquam corrupti quaerat omnis quae in dolore commodi doloremque quia! Delectus ex veritatis distinctio beatae quisquam enim dolorum possimus aperiam magni expedita voluptate quibusdam illo excepturi, nulla, atque eos rem? Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium</p>
+					</div>
+				</div>
+				<div class="col-md-6 col-sm-6 no-padd">
+					<div class="features-caption">
+						<span class="icon icon-dial"></span>
+						<h3>Responsive Designs</h3>
+						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit ut porro velit, nesciunt libero dolorem ipsa unde iste nisi aliquam perspiciatis blanditiis cum temporibus placeat accusamus veritatis error iusto suscipit dolore explicabo est perferendis. Quia magnam ipsum non unde deserunt. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4 col-sm-12">
+				<img src="img/1.jpg" alt="imack" class="img-responsive imack" />
+			</div>
+
+			<div class="col-md-4 col-sm-12">
+				<img src="img/1.jpg" alt="imack" class="img-responsive imack" />
+			</div>
+
+
+			
+
+
+			
+		</div>
+	</div>
+</section>
+
+
+
+
+<!-- seccion informacion -->
+<section class="dark services" id="biografia">
+	<div class="container">
+
+			<div class="row">
+					<div class="smart-header">
+						<h1>Biografia</h1>
+					</div>
+				</div>
+
+		<div class="col-md-4 col-sm-6">
+			<div class="service-caption">
+				<span class="icon-tools"></span>
+				<div class="service-content">
+					<h4>aqui texto</h4>
+					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-4 col-sm-6">
+			<div class="service-caption">
+				<span class="icon-dial"></span>
+				<div class="service-content">
+					<h4>aqui texto</h4>
+					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-4 col-sm-6">
+			<div class="service-caption">
+				<span class="icon-twitter"></span>
+				<div class="service-content">
+					<h4>24x7 Support</h4>
+					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-4 col-sm-6">
+			<div class="service-caption">
+				<span class="icon-pictures"></span>
+				<div class="service-content">
+					<h4>Graphic Designs</h4>
+					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-4 col-sm-6">
+			<div class="service-caption">
+				<span class="icon-twitter"></span>
+				<div class="service-content">
+					<h4>24x7 Support</h4>
+					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-4 col-sm-6">
+			<div class="service-caption">
+				<span class="icon-pictures"></span>
+				<div class="service-content">
+					<h4>Graphic Designs</h4>
+					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+
+
+		<!-- pricing plan-->
+	<!-- <section class="pricing-table" id="pricing">
+			<div class="container">
+				<div class="row-heading">
+						<h2>Videos <span>Insert coinz</span></h2>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+					</div>
+				<div class="row no-padd">
+					<div class="col-md-3 col-sm-6">
+						<div class="pricing">
+							<div class="prc-header">
+								<h3>Basic Plan</h3>
+							</div>
+							<div class="prc-price">
+								<h2>$</h2>
+								<h3>110</h3>
+								<p>Per month</p>
+							</div>
+							<ul>
+								<li><strong>5</strong> User</li>
+								<li><strong>220GB</strong> Data Space</li>
+								<li><strong>400</strong> Email Account</li>
+								<li><strong>10</strong> Software</li>
+							</ul>
+							<button type="submit" class="btn select-plan" name="" value="">Select Plan</button>
+						</div>
+					</div>
+					<div class="col-md-3 col-sm-6">
+						<div class="pricing active">
+							<div class="prc-header">
+								<h3>Startup Plan</h3>
+							</div>
+							<div class="prc-price">
+								<h2>$</h2>
+								<h3>170</h3>
+								<p>Per month</p>
+							</div>
+							<ul>
+								<li><strong>5</strong> User</li>
+								<li><strong>220GB</strong> Data Space</li>
+								<li><strong>400</strong> Email Account</li>
+								<li><strong>10</strong> Software</li>
+							</ul>
+							<button type="submit" class="btn select-plan" name="" value="">Select Plan</button>
+						</div>
+					</div>
+					<div class="col-md-3 col-sm-6">
+						<div class="pricing">
+							<div class="prc-header">
+								<h3>Platinum Plan</h3>
+							</div>
+							<div class="prc-price">
+								<h2>$</h2>
+								<h3>210</h3>
+								<p>Per month</p>
+							</div>
+							<ul>
+								<li><strong>5</strong> User</li>
+								<li><strong>220GB</strong> Data Space</li>
+								<li><strong>400</strong> Email Account</li>
+								<li><strong>10</strong> Software</li>
+							</ul>
+							<button type="submit" class="btn select-plan" name="" value="">Select Plan</button>
+						</div>
+					</div>
+					<div class="col-md-3 col-sm-6">
+						<div class="pricing active">
+							<div class="prc-header">
+								<h3>Standard Plan</h3>
+							</div>
+							<div class="prc-price">
+								<h2>$</h2>
+								<h3>399</h3>
+								<p>Per month</p>
+							</div>
+							<ul>
+								<li><strong>5</strong> User</li>
+								<li><strong>220GB</strong> Data Space</li>
+								<li><strong>400</strong> Email Account</li>
+								<li><strong>10</strong> Software</li>
+							</ul>
+							<button type="submit" class="btn select-plan" name="" value="">Select Plan</button>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section> -->
+		 
+		<!-- video section-->
+			<!-- <section class="video-sec" id="video" style="background:url(img/caratuladeesosetrata.jpg) no-repeat">
+
+				<div class="banner" id="home" style="background:url(img/caratula2.jpg) ;">   
+
+				<div class="container">
+					<div class="row">
+						<div class="heading">
+							<h2>Pronto</h2>
+						</div>
+					</div>
+					<div class="video-part">
+						<a href="#" data-toggle="modal" data-target="#my-video" class="video-btn" alt=""><i class="fa fa-play"></i></a>
+					</div>
+				</div>
+			</section>
+			 -->
+			<!-- app screen-->
+			<!-- <section class="screen" id="screens">
+				<div class="container">
+					<div class="row">
+						<div class="row-heading">
+							<h2>Fotos<span>-Discos</span></h2>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+						</div>
+					</div>
+					<div class="row">
+						<div id="app-screen" class="owl-carousel owl-theme">
+						  <div class="item">
+						  <img src="img/caratula.jpg" class="img-responsive">
+						  </div>
+							<div class="item">
+								<img src="img/PEFILEDQ.jpg" class="img-responsive">
+							</div>
+							<div class="item">
+								<img src="img/5.jpg" class="img-responsive">
+							</div>
+							<div class="item">
+								<img src="img/allin.jpg" class="img-responsive">
+							</div>
+							<div class="item">
+								<img src="img/backprueba.jpg" class="img-responsive">
+							</div>
+							<div class="item">
+								<img src="img/caratuladisco.png" class="img-responsive">
+							</div>
+							<div class="item">
+								<img src="img/coverchicadehu.jpg" class="img-responsive">
+							</div>
+							<div class="item">
+								<img src="img/allin.jpg" class="img-responsive">
+							</div>
+							<div class="item">
+								<img src="img/caratula.jpg" class="img-responsive">
+							</div>
+							<div class="item">
+								<img src="img/caratula.jpg" class="img-responsive">
+								</div>
+								<div class="item">
+									<img src="img/PEFILEDQ.jpg" class="img-responsive">
+								</div>
+								<div class="item">
+									<img src="img/5.jpg" class="img-responsive">
+								</div>
+								<div class="item">
+									<img src="img/allin.jpg" class="img-responsive">
+								</div>
+								<div class="item">
+									<img src="img/backprueba.jpg" class="img-responsive">
+								</div>
+								<div class="item">
+									<img src="img/caratuladisco.png" class="img-responsive">
+								</div>
+						</div>
+						<div class="customNavigation">
+						  <a class="btn prev"><i class="fa fa-arrow-left"></i></a>
+						  <a class="btn next"><i class="fa fa-arrow-right"></i></a>
+						</div>
+					</div>
+				</div>
+			</section> -->
+			<!--.End app sreen-->
+		
+			<!-- contact form-->
+
+			 
+			<section class="contact dark" id="contact">
+				<div class="row">
+					<div class="row-heading">
+						<h2>Enviar <span>Message</span></h2>
+						<p>Si tienes consultas, no dudes en ponerte en contacto con el equipo de insert coinz.</p>
+					</div>
+				</div>
+				<div class="container">
+					<div class="col-md-10 col-sm-12 col-md-offset-1">
+						<div class="row contact-form">
+						<form name="sentMessage" id="contactForm" novalidate>
+							<div class="col-sm-6">
+								<div class="form-group">
+									<input type="text" class="form-control" placeholder="Your Name *" id="name" required data-validation-required-message="Please enter your name.">
+									<p class="help-block text-danger"></p>
+								</div>
+							</div>
+							
+							<div class="col-sm-6">
+								<div class="form-group">
+									<input type="email" class="form-control" placeholder="Your Email *" id="email" required data-validation-required-message="Please enter your email address.">
+									<p class="help-block text-danger"></p>
+								</div>
+							</div>
+							<div class="col-sm-6">
+								<div class="form-group">
+									<input type="tel" class="form-control" placeholder="Your Phone *" id="phone" required data-validation-required-message="Please enter your phone number.">
+									<p class="help-block text-danger"></p>
+								</div>
+							</div>
+							
+							<div class="col-sm-6">
+								<div class="form-group">
+									<input type="text" class="form-control" placeholder="Your Subject *" id="subject">
+									<p class="help-block text-danger"></p>
+								</div>
+							</div>
+							<div class="col-xs-12">
+								<div class="form-group">
+									<textarea class="form-control" placeholder="Your Message *" id="message" required data-validation-required-message="Please enter a message."></textarea>
+									<p class="help-block text-danger"></p>
+								</div>
+								<div id="success"></div>
+								<button type="submit" class="btn btn-success btn-caption submit">Enviar mensaje</button>
+							</div>
+							</form>
+						</div>
+					</div>	
+				</div>
+				
+			</section>
+			<!--./End contact form-->
+			
+			<!-- footer -->
+			<footer>
+				<div class="container">
+					<div class="footer-widget">
+						<div class="footer-social">
+							<ul class="footer-social-pro">
+								<li class="facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
+								<li class="google"><a href="#"><i class="fa fa-google-plus"></i></a></li>
+								<li class="twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
+								<li class="instagram"><a href="#"><i class="fa fa-instagram"></i></a></li>
+								<li class="pinterest"><a href="#"><i class="fa fa-pinterest"></i></a></li>
+							</ul>
+						</div>
+						<div class="footer-widget">
+							<ul class="footer-navi">
+								<li><a href="#home">Home</a></li>
+								<li><a href="#features">Biografia</a></li>
+								<li><a href="#services">Musica</a></li>
+								<li><a href="#pricing">Videos</a></li>
+								<li><a href="#screens">Fotos</a></li>
+								<li><a href="#contact">Contacto</a></li>
+							</ul>
+						</div>
+						<div class="footer-widget-copy">
+							<p>2019 web design and development <a href="kevinlopezreyes1@gmail.com">Kevin Lopez Reyes</a></p>
+						</div>
+					</div>
+				</div>
+			</footer>
+			
+			<!-- Video Popup -->
+			<div class="modal fade" id="my-video" tabindex="-1" role="dialog" aria-labelledby="myModalLabel2" aria-hidden="true">
+				<div class="modal-dialog">
+					<div class="modal-content">
+						<div class="modal-body">
+							<iframe width="100%" height="315" src="https://www.youtube.com/watch?v=V-bu-NsEGdA" frameborder="0" allowfullscreen></iframe>
+						</div>
+						</div>
+				</div>
+			</div>   
+			<!-- Video Popup --> 
+
+
+			
+			<!-- START JAVASCRIPT -->
+			<!-- Placed at the end of the document so the pages load faster -->
+			<script type="text/javascript" src="js/jquery.min.js"></script>
+			<script type="text/javascript" src="js/owl.carousel.min.js"></script>
+			<script src="js/bootstrap.min.js"></script>
+
+
+
+
+
+			<script>
+					$(document).ready(function(){
+							$('.sidenav').sidenav();
+							$('.parallax').parallax();
+							$('.slider').slider();
+							$('.materialboxed').materialbox();
+					});
+			</script>
+
+
+			<!-- Place this tag in your head or just before your close body tag. -->
+			<!-- contact js-->
+			<script src="js/jqBootstrapValidation.js"></script>
+			<script src="js/contact_me.js"></script>
+			
+			<script async="" defer="" src="js/buttons.js"></script>
+			<script src="js/bootsnav.js"></script>
+			<script src="js/custom.js"></script>
+
+
+			<!-- scroll top -->
+			<script type="text/javascript">
+			$('.navbar-nav a').click(function(){
+			$('html, body').animate({
+				scrollTop: $( $(this).attr('href') ).offset().top
+			}, 800);
+			return false;
+			});
+			</script>
+			<script type="text/javascript">
+			$('.footer-navi a').click(function(){
+			$('html, body').animate({
+				scrollTop: $( $(this).attr('href') ).offset().top
+			}, 800);
+			return false;
+			});
+		
+
+
+					// scrool reveal
+
+
+			
+// logo
+	window.sr = ScrollReveal();
+	sr.reveal ('.navbar-header' , {
+			duration: 1000,
+			origin:'left',
+			distance:'1000px'
+	});
+
+// slider
+	sr.reveal ('.banner' , {
+			duration: 2000,
+			origin: 'bottom',
+			distance:'300px'
+	});
+	// menu
+	sr.reveal ('.navbar-collapse' , {
+			duration: 3000,
+			origin: 'right',
+			distance:'300px'
+	});
+
+// biografia
+	sr.reveal ('.smart-header' , {
+			duration: 2000,
+			origin: 'left',
+			distance:'300px'
+	});
+	sr.reveal ('.features-caption' , {
+			duration: 5000,
+			origin: 'bottom'
+	});
+
+	
+
+	
+
+
+
+</script>
+		</div>
+	</body>
+</html>
